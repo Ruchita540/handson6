@@ -1,4 +1,4 @@
-body{
+ body{
   background: linear-gradient(to bottom, skyblue,pink,pink,rgb(200, 198, 198));
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -59,4 +59,4 @@ td {
   border-bottom: 1px solid black;
   background-color: white;
   color: black;
-}
+} 

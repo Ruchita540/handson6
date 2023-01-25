@@ -7,7 +7,7 @@ import Contactus from './Componant/Contactus';
 import Navbar from './Componant/Navbar'
 import Edit from './Componant/Edit';
 import Addstudent from './Componant/Addstudent';
-//import Table1 from './Componant/Table1';
+
 
 
 const App = () => {
