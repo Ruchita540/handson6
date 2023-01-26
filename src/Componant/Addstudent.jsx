@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 
 const Addstudent=()=> {
     const[show,setshow]=useState(false)
-    const[submitshow,setsubmitshow]=useState(true)
+    //const[submitshow,setsubmitshow]=useState(true)
     const[state,setstate]=useState({
         Name1:"",
         Department:"",
